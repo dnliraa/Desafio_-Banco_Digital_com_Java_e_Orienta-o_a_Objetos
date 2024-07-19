@@ -1,0 +1,5 @@
+package entities.accounts;
+
+public interface IAccount {
+
+}

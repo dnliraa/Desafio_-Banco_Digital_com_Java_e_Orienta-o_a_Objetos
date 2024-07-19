@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\lirap\OneDrive\Área de Trabalho\banco\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1504127369.index
+3956553759.index

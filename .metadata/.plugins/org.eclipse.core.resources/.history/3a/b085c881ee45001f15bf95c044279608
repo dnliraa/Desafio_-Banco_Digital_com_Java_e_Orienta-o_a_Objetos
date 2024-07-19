@@ -1,0 +1,11 @@
+package entities.accounts;
+
+
+
+public class savings_account extends Account {
+	
+	
+
+}
+
+

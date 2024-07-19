@@ -1,0 +1,13 @@
+package entities.accounts;
+
+import entities.user.Client;
+
+public interface IAccount {
+	
+	void withdrawal(Double value);
+	
+	void deposit(Double value);
+	
+	void transfer(Double value, Account account);
+
+}
